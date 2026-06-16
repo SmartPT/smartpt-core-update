@@ -1,0 +1,15 @@
+﻿release-assets/
+*.log
+*.tmp
+*.pfx
+*.p12
+*.key
+*.cer
+*.crt
+license.json
+license.state.json
+appsettings.Production.json
+state/
+logs/
+bin/
+obj/

@@ -1,38 +1,23 @@
-﻿# SmartPT Core Update Source
+# SmartPT Core Update Source
 
-Public update source for SmartPT Core installer releases.
+Public update source for the current SmartPT Core package set.
 
-## Current Release
+## Current Installer
 
-- Version: $release
-- Tag: $tag
-- Installer asset: Setup.exe
-- Update manifest: latest.json
+- Setup.exe: https://smartpt.co.il/downloads/core/Setup.exe
+- SHA256: see `latest.json` or `https://smartpt.co.il/downloads/core/Setup.exe.sha256.txt`
 
-## Release Assets
+## Current Package URLs
 
-Release assets should be uploaded to GitHub Releases, not committed to the repository history:
+- `packages/console.zip`
+- `packages/adc-frontend.zip`
+- `packages/adc-backend.zip`
+- `packages/jit-frontend.zip`
+- `packages/jit-backend.zip`
+- `packages/verify.zip`
 
-- Setup.exe
-- Setup.exe.sha256.txt
-- console.zip
-- dc-frontend.zip
-- dc-backend.zip
-- jit-frontend.zip
-- jit-backend.zip
-- erify.zip
-- permissions.md
-- Remove-SmartPT-Core-Install.ps1
+All ZIPs in this repository are replaced in place on each wizard publish. Old package versions are not kept here.
 
-## Update DNS
+## Manifest
 
-Point update.smartpt.co.il at this repository or a small static endpoint that serves latest.json.
-
-Recommended stable manifest URL after GitHub Pages is enabled:
-
-https://update.smartpt.co.il/latest.json
-
-## Security Rules
-
-Do not commit customer data, logs, state files, license files, passwords, certificates, or private keys.
-Use GitHub Releases for binaries and ZIP payloads.
+- `latest.json`

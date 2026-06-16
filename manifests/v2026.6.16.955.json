@@ -19,70 +19,70 @@
                        "size":  1242387,
                        "sha256":  "2EDA5793C00DFF88A6E97E3F446B67EA32C6F3B193C9B1D9C2DD75A3E12D477B",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/adc-backend.zip"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/adc-backend.zip"
                    },
                    {
                        "name":  "adc-frontend.zip",
                        "size":  4237819,
                        "sha256":  "B40303707A91B3F181C170F5D6F43A5583100121CFC4996C92AD5ADF399988FB",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/adc-frontend.zip"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/adc-frontend.zip"
                    },
                    {
                        "name":  "console.zip",
                        "size":  1082123,
                        "sha256":  "9A33396DE1348878EEF88146F66303C359ED9BB775716268C10E323190A8E0ED",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/console.zip"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/console.zip"
                    },
                    {
                        "name":  "jit-backend.zip",
                        "size":  1049333,
                        "sha256":  "2B8522AC57CAD4C7C77B5F3CCE64DF9952B4B4DF5327E33B7C4D06D4FC470AA8",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/jit-backend.zip"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/jit-backend.zip"
                    },
                    {
                        "name":  "jit-frontend.zip",
                        "size":  286529,
                        "sha256":  "9EBF09013588D2059DC61952E9558115F166AD7AE73EDD30BD07E5E9C67B76DF",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/jit-frontend.zip"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/jit-frontend.zip"
                    },
                    {
                        "name":  "permissions.md",
                        "size":  2349,
                        "sha256":  "8CBF817CF01C33D0479AA4D1F5EAC347B894CF8ECE6A5B3FE4AC4D5A9657A309",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/permissions.md"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/permissions.md"
                    },
                    {
                        "name":  "Remove-SmartPT-Core-Install.ps1",
                        "size":  10890,
                        "sha256":  "2135A618912C471FE61F8F32E57BA8B30AEF52F52F46020A558239007DC4F77B",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/Remove-SmartPT-Core-Install.ps1"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/Remove-SmartPT-Core-Install.ps1"
                    },
                    {
                        "name":  "Setup.exe",
                        "size":  412334353,
                        "sha256":  "D2F290E95E22FE64ACD001917AE4011173A80B4FF86A8A79831B8CE3C069F110",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/Setup.exe"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/Setup.exe"
                    },
                    {
                        "name":  "Setup.exe.sha256.txt",
                        "size":  77,
                        "sha256":  "BA67DA9868D174ABE0EA50502D37034A3CB11D1B466101F0432CBFB34864FDAC",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/Setup.exe.sha256.txt"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/Setup.exe.sha256.txt"
                    },
                    {
                        "name":  "verify.zip",
                        "size":  155321,
                        "sha256":  "736287CE0F6F9A6147E78B5CA17887F99A2C38CD4387572CEBB28A9515F30766",
                        "releaseAsset":  true,
-                       "urlTemplate":  "https://github.com/OWNER/smartpt-core-update/releases/download/v2026.6.16.955/verify.zip"
+                       "urlTemplate":  "https://github.com/SmartPT/smartpt-core-update/releases/download/v2026.6.16.955/verify.zip"
                    }
                ],
     "notes":  [
@@ -92,3 +92,4 @@
                   "Secure Access is not included or managed by this installer."
               ]
 }
+

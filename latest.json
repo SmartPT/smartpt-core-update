@@ -2,7 +2,7 @@
     "product":  "SmartPT Core",
     "channel":  "stable",
     "version":  "2026.6.16.955",
-    "publishedUtc":  "2026-06-16T19:06:27Z",
+    "publishedUtc":  "2026-06-23T05:31:48Z",
     "installerUrl":  "https://smartpt.co.il/downloads/core/Setup.exe",
     "installerSha256":  "DECB3A569FF994E9BE13B132480875BECDB10D2DD065C487C67A1CC4569B4F0E",
     "packageBaseUrl":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages",
@@ -10,44 +10,44 @@
                      {
                          "name":  "console.zip",
                          "size":  1082123,
-                         "sha256":  "99DD714E471EBCFE29090F108DD3900876DA23D63A9A5F844128D9BE87150348",
+                         "sha256":  "15CFD5BA16E0F100A325C7F0F45CB2247787C7FDAF734341C1125C4D28EF16FF",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/console.zip"
                      },
                      {
                          "name":  "adc-frontend.zip",
-                         "size":  4237819,
-                         "sha256":  "B40303707A91B3F181C170F5D6F43A5583100121CFC4996C92AD5ADF399988FB",
+                         "size":  5854726,
+                         "sha256":  "FA9CB773723087DCA7465D8808426B3D0CE8DB09D37CBDC31C9AEBE0528D06E3",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/adc-frontend.zip"
                      },
                      {
                          "name":  "adc-backend.zip",
-                         "size":  1242387,
-                         "sha256":  "E3F73A4CEAED00FFE61D80B53E080817047E5603CE415283B21079A52C6EB759",
+                         "size":  1243147,
+                         "sha256":  "2C83F1F55E9191EDC0591889CD072842413BB27059CAAA000346FD18EAD026FD",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/adc-backend.zip"
                      },
                      {
                          "name":  "jit-frontend.zip",
-                         "size":  286529,
-                         "sha256":  "9EBF09013588D2059DC61952E9558115F166AD7AE73EDD30BD07E5E9C67B76DF",
+                         "size":  675545,
+                         "sha256":  "E8B07573E2F6BE25B317CD77C46225C70A17740BE03FF9F2249C11404532E2BD",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/jit-frontend.zip"
                      },
                      {
                          "name":  "jit-backend.zip",
-                         "size":  1049333,
-                         "sha256":  "D91B9CA56E6D0699D636375B330349D67872D610DD126423F71332A9BC787327",
+                         "size":  1052465,
+                         "sha256":  "8FB93A890E6E90434DDF611384948F6AFD56C5D182E5658714F6CDA7493F3A6C",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/jit-backend.zip"
                      },
                      {
                          "name":  "verify.zip",
-                         "size":  155321,
-                         "sha256":  "D29BDA258BC4CB7B5CE54EB8F6C2763CCA632E6275BE27F1E17D8B75469B85A4",
+                         "size":  155736,
+                         "sha256":  "35401BCD289E3C4A6A1EC1AD6A92AC038464A043387BC61491BA949A20DC6007",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/verify.zip"
                      }
                  ],
     "repositoryUrl":  "https://github.com/SmartPT/smartpt-core-update",
     "notes":  [
                   "GitHub keeps only the current SmartPT Core package ZIPs.",
-                  "Setup.exe is hosted on the SmartPT web server and replaced in place on each publish.",
+                  "Setup.exe is rebuilt locally but is not republished unless the publish run explicitly enables EXE upload.",
                   "Secure Access is not included or managed by this installer."
               ]
 }

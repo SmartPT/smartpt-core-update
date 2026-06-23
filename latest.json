@@ -2,15 +2,15 @@
     "product":  "SmartPT Core",
     "channel":  "stable",
     "version":  "2026.6.16.955",
-    "publishedUtc":  "2026-06-23T05:31:48Z",
+    "publishedUtc":  "2026-06-23T16:02:34Z",
     "installerUrl":  "https://smartpt.co.il/downloads/core/Setup.exe",
     "installerSha256":  "DECB3A569FF994E9BE13B132480875BECDB10D2DD065C487C67A1CC4569B4F0E",
     "packageBaseUrl":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages",
     "packages":  [
                      {
                          "name":  "console.zip",
-                         "size":  1082123,
-                         "sha256":  "15CFD5BA16E0F100A325C7F0F45CB2247787C7FDAF734341C1125C4D28EF16FF",
+                         "size":  1062514,
+                         "sha256":  "4F6538B5250F67DAE3CACEB16067DA5711F2D14CB7B02663741459499F1A5003",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/console.zip"
                      },
                      {
@@ -22,7 +22,7 @@
                      {
                          "name":  "adc-backend.zip",
                          "size":  1243147,
-                         "sha256":  "2C83F1F55E9191EDC0591889CD072842413BB27059CAAA000346FD18EAD026FD",
+                         "sha256":  "700E982D52AD1DDF5FB23CAF972235D7538802FC81816D4C1686E4572016B671",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/adc-backend.zip"
                      },
                      {
@@ -34,13 +34,13 @@
                      {
                          "name":  "jit-backend.zip",
                          "size":  1052465,
-                         "sha256":  "8FB93A890E6E90434DDF611384948F6AFD56C5D182E5658714F6CDA7493F3A6C",
+                         "sha256":  "CFA4FC7E58C0126862B61CE11D9DA7D937904F66C105315C1C2057BC067D1C89",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/jit-backend.zip"
                      },
                      {
                          "name":  "verify.zip",
                          "size":  155736,
-                         "sha256":  "35401BCD289E3C4A6A1EC1AD6A92AC038464A043387BC61491BA949A20DC6007",
+                         "sha256":  "AB6A776A87ECA2CE74860DFC9993ACFD18B6F6BAB4868F76D524913AB13156E2",
                          "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/verify.zip"
                      }
                  ],

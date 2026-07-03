@@ -5,43 +5,43 @@
     "publishedUtc":  "2026-06-30T09:10:09Z",
     "installerUrl":  "https://smartpt.co.il/downloads/core/Setup.exe",
     "installerSha256":  "DECB3A569FF994E9BE13B132480875BECDB10D2DD065C487C67A1CC4569B4F0E",
-    "packageBaseUrl":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages",
+    "packageBaseUrl":  "https://updates.smartpt.co.il/SmartPT/smartpt-core-update/main/packages",
     "packages":  [
                      {
                          "name":  "console.zip",
                          "size":  1069061,
                          "sha256":  "2A3B05BF8FFF55733E2B137D9E7620B270D5DD4C072659F2707092619C50176A",
-                         "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/console.zip"
+                         "url":  "https://updates.smartpt.co.il/SmartPT/smartpt-core-update/main/packages/console.zip"
                      },
                      {
                          "name":  "adc-frontend.zip",
                          "size":  5856890,
                          "sha256":  "F4CBE416340ED64706EBC8D45F522D9914900BA56F96EC4D85B4760498298FEB",
-                         "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/adc-frontend.zip"
+                         "url":  "https://updates.smartpt.co.il/SmartPT/smartpt-core-update/main/packages/adc-frontend.zip"
                      },
                      {
                          "name":  "adc-backend.zip",
                          "size":  1247726,
                          "sha256":  "5C862A40E29C19AAE9FF5F6257403931D787232624463D586ACBDF8E5352B000",
-                         "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/adc-backend.zip"
+                         "url":  "https://updates.smartpt.co.il/SmartPT/smartpt-core-update/main/packages/adc-backend.zip"
                      },
                      {
                          "name":  "jit-frontend.zip",
                          "size":  1459204,
                          "sha256":  "1B6EEFF763740E6FCCE1A4CE5C1DD0A51D5D520EA0E2CF07F9D865521D9CF047",
-                         "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/jit-frontend.zip"
+                         "url":  "https://updates.smartpt.co.il/SmartPT/smartpt-core-update/main/packages/jit-frontend.zip"
                      },
                      {
                          "name":  "jit-backend.zip",
                          "size":  1053673,
                          "sha256":  "4E98CDBD73EADD6C75064FAE0858B21CA61BF61CA2F4AB5B02C607AFF40098F9",
-                         "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/jit-backend.zip"
+                         "url":  "https://updates.smartpt.co.il/SmartPT/smartpt-core-update/main/packages/jit-backend.zip"
                      },
                      {
                          "name":  "verify.zip",
                          "size":  158574,
                          "sha256":  "FC07643A36CBA6BF26324A9353652695EF820495986DD9BF987AC1495E32E777",
-                         "url":  "https://raw.githubusercontent.com/SmartPT/smartpt-core-update/main/packages/verify.zip"
+                         "url":  "https://updates.smartpt.co.il/SmartPT/smartpt-core-update/main/packages/verify.zip"
                      }
                  ],
     "repositoryUrl":  "https://github.com/SmartPT/smartpt-core-update",

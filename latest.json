@@ -1,54 +1,54 @@
-﻿{
-  "product": "SmartPT Core",
-  "channel": "stable",
-  "version": "2026.7.4.1",
-  "publishedUtc": "2026-07-04T03:17:47Z",
-  "installerUrl": "https://updates.smartpt.co.il/Setup.exe",
-  "installerSha256": "396C27301A3A77AD674462EEB6C5BC27557F3740BAF785AA63A5E595E87EB2A4",
-  "packageBaseUrl": "https://updates.smartpt.co.il/packages",
-  "packages": [
-    {
-      "name": "console.zip",
-      "size": 1197143,
-      "sha256": "8709BADD0C5E3537986E37996BF8D1D1B43F4E8EF3EC397FD393DC01D0CCF2A6",
-      "url": "https://updates.smartpt.co.il/packages/console.zip"
-    },
-    {
-      "name": "adc-frontend.zip",
-      "size": 5856890,
-      "sha256": "F4CBE416340ED64706EBC8D45F522D9914900BA56F96EC4D85B4760498298FEB",
-      "url": "https://updates.smartpt.co.il/packages/adc-frontend.zip"
-    },
-    {
-      "name": "adc-backend.zip",
-      "size": 1395755,
-      "sha256": "46B94FF3A3325230F72D6A9F29C8D03738613AC6AD78722BAE87D37B216F7936",
-      "url": "https://updates.smartpt.co.il/packages/adc-backend.zip"
-    },
-    {
-      "name": "jit-frontend.zip",
-      "size": 1584913,
-      "sha256": "EF8586749C0A4DB42F890B5DBB41B3D9CD07B59E9DF7C60805F36DDAA52576D2",
-      "url": "https://updates.smartpt.co.il/packages/jit-frontend.zip"
-    },
-    {
-      "name": "jit-backend.zip",
-      "size": 1220055,
-      "sha256": "94848079EDB601A68F6F75C2E78037C95FD645C253AA3515F83C1DF684B3F6D3",
-      "url": "https://updates.smartpt.co.il/packages/jit-backend.zip"
-    },
-    {
-      "name": "verify.zip",
-      "size": 158574,
-      "sha256": "D94BF1FDACB7F699F90EB751D30BB8723694B2C8CACF912A1318419791896E20",
-      "url": "https://updates.smartpt.co.il/packages/verify.zip"
-    }
-  ],
-  "repositoryUrl": "https://github.com/SmartPT/smartpt-core-update",
-  "notes": [
-    "https://updates.smartpt.co.il is the production update endpoint for SmartPT Core.",
-    "GitHub remains the source-of-record repository for the current package ZIP set.",
-    "Setup.exe is rebuilt locally for each release and published separately to the update endpoint when required.",
-    "Secure Access is not included or managed by this installer."
-  ]
+{
+    "product":  "SmartPT Core",
+    "channel":  "stable",
+    "version":  "2026.7.4.1",
+    "publishedUtc":  "2026-07-04T14:36:06Z",
+    "installerUrl":  "https://updates.smartpt.co.il/Setup.exe",
+    "installerSha256":  "396C27301A3A77AD674462EEB6C5BC27557F3740BAF785AA63A5E595E87EB2A4",
+    "packageBaseUrl":  "https://updates.smartpt.co.il/packages",
+    "packages":  [
+                     {
+                         "name":  "console.zip",
+                         "size":  1197143,
+                         "sha256":  "4BA9F1BA207481B5C221EAB29CC25F14BFBDF1D5FBDAF3874E6BBF2E1CF5A495",
+                         "url":  "https://updates.smartpt.co.il/packages/console.zip"
+                     },
+                     {
+                         "name":  "adc-frontend.zip",
+                         "size":  5856890,
+                         "sha256":  "5AB9C1AA3C6EAB8C1BD6838824E00BAA740F5E096980360994CB3CC5F7D1440A",
+                         "url":  "https://updates.smartpt.co.il/packages/adc-frontend.zip"
+                     },
+                     {
+                         "name":  "adc-backend.zip",
+                         "size":  1396368,
+                         "sha256":  "30503B07E15E2CAAF2D6EF23F46377B5AB0F49B95833B7DBC23BBD0233E32619",
+                         "url":  "https://updates.smartpt.co.il/packages/adc-backend.zip"
+                     },
+                     {
+                         "name":  "jit-frontend.zip",
+                         "size":  1584913,
+                         "sha256":  "EF8586749C0A4DB42F890B5DBB41B3D9CD07B59E9DF7C60805F36DDAA52576D2",
+                         "url":  "https://updates.smartpt.co.il/packages/jit-frontend.zip"
+                     },
+                     {
+                         "name":  "jit-backend.zip",
+                         "size":  1220055,
+                         "sha256":  "07DFBAB04984EEC82FE0B34E16492717A2111464B578B52225C29D6ABDA49ADE",
+                         "url":  "https://updates.smartpt.co.il/packages/jit-backend.zip"
+                     },
+                     {
+                         "name":  "verify.zip",
+                         "size":  158574,
+                         "sha256":  "F77CE555823E2BE2D748F67A8B7BF9B373F8B748EC8243D0F9DE8969A4748F43",
+                         "url":  "https://updates.smartpt.co.il/packages/verify.zip"
+                     }
+                 ],
+    "repositoryUrl":  "https://github.com/SmartPT/smartpt-core-update",
+    "notes":  [
+                  "https://updates.smartpt.co.il is the production update endpoint for SmartPT Core.",
+                  "GitHub remains the source-of-record repository for the current package ZIP set.",
+                  "Setup.exe is rebuilt locally and is published separately only when the publish run explicitly enables EXE upload.",
+                  "Secure Access is not included or managed by this installer."
+              ]
 }

@@ -1,4 +1,4 @@
-# SmartPT Core Update Source
+﻿# SmartPT Core Update Source
 
 Public update source for the current SmartPT Core package set.
 
@@ -22,3 +22,6 @@ All ZIPs in this repository are replaced in place on each wizard publish. Old pa
 ## Manifest
 
 - `latest.json`
+
+Last repo publish trigger: 2026-07-04T04:10:31Z
+

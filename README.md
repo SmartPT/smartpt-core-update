@@ -2,10 +2,11 @@
 
 Public update source for the current SmartPT Core package set.
 
-## Current Installer
+## Production Update Endpoint
 
-- Setup.exe: https://smartpt.co.il/downloads/core/Setup.exe
-- SHA256: see `latest.json` or `Setup.exe.sha256.txt` on the SmartPT server.
+- Base URL: https://updates.smartpt.co.il
+- Setup.exe: https://updates.smartpt.co.il/Setup.exe
+- SHA256: see `latest.json` or `Setup.exe.sha256.txt` on the update endpoint.
 
 ## Current Package URLs
 

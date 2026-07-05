@@ -46,9 +46,8 @@
                  ],
     "repositoryUrl":  "https://github.com/SmartPT/smartpt-core-update",
     "notes":  [
-                  "https://updates.smartpt.co.il is the production update endpoint for SmartPT Core.",
-                  "GitHub remains the source-of-record repository for the current package ZIP set.",
-                  "Setup.exe is rebuilt locally and is published separately only when the publish run explicitly enables EXE upload.",
-                  "Secure Access is not included or managed by this installer."
+                  "Official SmartPT Core update manifest for enterprise deployments.",
+                  "Packages are published from the current approved release set.",
+                  "Secure Access is not included in this installer."
               ]
 }

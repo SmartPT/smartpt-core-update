@@ -1,29 +1,20 @@
-# SmartPT Core Update Source
+# SmartPT Core Updates
 
-Public update source for the current SmartPT Core package set.
+Official update source for SmartPT Core installations.
 
-## Production Update Endpoint
+## Update Endpoints
 
-- Base URL: https://updates.smartpt.co.il
-- Setup.exe: https://smartpt.co.il/downloads/core/Setup.exe
-- Package base: https://updates.smartpt.co.il/packages
+- Manifest: https://updates.smartpt.co.il/latest.json
+- Packages: https://updates.smartpt.co.il/packages
+- Installer: https://smartpt.co.il/downloads/core/Setup.exe
 
-## Current Installer
+## Package Set
 
-- Setup.exe: https://smartpt.co.il/downloads/core/Setup.exe
-- SHA256: see `latest.json` or `Setup.exe.sha256.txt` on the update endpoint.
+- SmartPT Core Console
+- AD Control frontend
+- AD Control backend
+- JIT frontend
+- JIT backend
+- SmartPT Verify
 
-## Current Package URLs
-
-- `packages/console.zip`
-- `packages/adc-frontend.zip`
-- `packages/adc-backend.zip`
-- `packages/jit-frontend.zip`
-- `packages/jit-backend.zip`
-- `packages/verify.zip`
-
-All ZIPs in this repository are replaced in place on each wizard publish. Old package versions are not kept here.
-
-## Manifest
-
-- `latest.json`
+This repository always publishes the current approved package set for enterprise deployments.

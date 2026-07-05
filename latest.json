@@ -3,7 +3,7 @@
     "channel":  "stable",
     "version":  "2026.7.4.2",
     "publishedUtc":  "2026-07-04T14:57:50Z",
-    "installerUrl":  "https://updates.smartpt.co.il/Setup.exe",
+    "installerUrl":  "https://smartpt.co.il/downloads/core/Setup.exe",
     "installerSha256":  "396C27301A3A77AD674462EEB6C5BC27557F3740BAF785AA63A5E595E87EB2A4",
     "packageBaseUrl":  "https://updates.smartpt.co.il/packages",
     "packages":  [

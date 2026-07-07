@@ -1,8 +1,8 @@
 {
     "product":  "SmartPT Core",
     "channel":  "stable",
-    "version":  "2026.7.4.6",
-    "publishedUtc":  "2026-07-07T06:03:29Z",
+    "version":  "2026.7.4.7",
+    "publishedUtc":  "2026-07-07T06:52:24Z",
     "installerUrl":  "https://smartpt.co.il/downloads/core/Setup.exe",
     "installerSha256":  "396C27301A3A77AD674462EEB6C5BC27557F3740BAF785AA63A5E595E87EB2A4",
     "packageBaseUrl":  "https://updates.smartpt.co.il/packages",
@@ -10,37 +10,37 @@
                      {
                          "name":  "console.zip",
                          "size":  1786166,
-                         "sha256":  "63BD8739B36C0D379A9DA93B592E988039850A2AE95ECDC48A167ACF8FD88BCC",
+                         "sha256":  "5D93C4FAD555C56F20F78BCC6473E9B672B96DBE26829301E7D03E3BB1945D5E",
                          "url":  "https://updates.smartpt.co.il/packages/console.zip"
                      },
                      {
                          "name":  "adc-frontend.zip",
-                         "size":  5856574,
-                         "sha256":  "D3FA035E171659FCAEC6A154FF22517A7BF7ABD5F3B7D313225BF1ECC96DC339",
+                         "size":  5856508,
+                         "sha256":  "4913E95C63A9A8EA05323F31209D830BCB2BB59B4125865A4161F9B84CA8C633",
                          "url":  "https://updates.smartpt.co.il/packages/adc-frontend.zip"
                      },
                      {
                          "name":  "adc-backend.zip",
-                         "size":  1899682,
-                         "sha256":  "9C5024D61D659D514327F4E82CAAF3E63AD0B2C4B95605C5665A53B7AC0DA413",
+                         "size":  1899675,
+                         "sha256":  "3FDA065CD5DE65C8F87B508088C238FD638F456FE5DFAA43B4C03B66356F5B04",
                          "url":  "https://updates.smartpt.co.il/packages/adc-backend.zip"
                      },
                      {
                          "name":  "jit-frontend.zip",
-                         "size":  1584913,
-                         "sha256":  "EF8586749C0A4DB42F890B5DBB41B3D9CD07B59E9DF7C60805F36DDAA52576D2",
+                         "size":  1584847,
+                         "sha256":  "39CCDD496A46858D46A15494DE6994B363E8EE0BDC90B48F36079E13CB1E64EC",
                          "url":  "https://updates.smartpt.co.il/packages/jit-frontend.zip"
                      },
                      {
                          "name":  "jit-backend.zip",
                          "size":  1220056,
-                         "sha256":  "8320544935603F843C1F3BB56E39F8A0DAEA907A35FFA658F8B3F9F6BE077F06",
+                         "sha256":  "2422B4181721D1B680EC08F7F30D4A80358CF23E8F0A9DB4DDDC0B2B80AB0AEA",
                          "url":  "https://updates.smartpt.co.il/packages/jit-backend.zip"
                      },
                      {
                          "name":  "verify.zip",
                          "size":  158574,
-                         "sha256":  "F00E9A0307BB5C30F3DC760433976308E01959377107E7521B1E835457D61886",
+                         "sha256":  "CB24B28C1E55A7673F2FE54B34D3A49FFAD09CD2DBF7BC515C7E261C7F9E6481",
                          "url":  "https://updates.smartpt.co.il/packages/verify.zip"
                      }
                  ],

@@ -1,16 +1,16 @@
 ﻿{
     "product":  "SmartPT Core",
     "channel":  "stable",
-    "version":  "2026.7.4.11",
-    "publishedUtc":  "2026-07-19T11:37:18Z",
+    "version":  "2026.7.4.12",
+    "publishedUtc":  "2026-07-19T12:05:25Z",
     "installerUrl":  "https://smartpt.co.il/downloads/core/Setup.exe",
     "installerSha256":  "396C27301A3A77AD674462EEB6C5BC27557F3740BAF785AA63A5E595E87EB2A4",
     "packageBaseUrl":  "https://updates.smartpt.co.il/packages",
     "packages":  [
                      {
                          "name":  "adc-backend.zip",
-                         "size":  1899670,
-                         "sha256":  "C0648257C2315D2B0CBD16AA2088DB94817EC5318546DB7A012094BBA4BBB9E2",
+                         "size":  1900075,
+                         "sha256":  "1945A8453D3281CDDCA32B503856137346D77B9B6F31AF26A125484746BE040D",
                          "url":  "https://updates.smartpt.co.il/packages/adc-backend.zip"
                      },
                      {
@@ -22,13 +22,13 @@
                      {
                          "name":  "console.zip",
                          "size":  1983834,
-                         "sha256":  "E0DB04FC4CDB79BD99A86FC52AB2509DF422FEDFEB067BF50E8FF2744D5695A4",
+                         "sha256":  "951D5B003F52D24FF12FC1719CDA2B35B0996989F3FCA8D8E7553659F39B44A6",
                          "url":  "https://updates.smartpt.co.il/packages/console.zip"
                      },
                      {
                          "name":  "jit-backend.zip",
                          "size":  1220055,
-                         "sha256":  "23E96EBC81E6546FBAABB95912B59DE0A97BF07C9FDE0BBDC65059754B028BF2",
+                         "sha256":  "D56A91D9125A885800B0F559CD75BD48A59D15DD301A2AFE66C9C8466A068F6D",
                          "url":  "https://updates.smartpt.co.il/packages/jit-backend.zip"
                      },
                      {
@@ -40,7 +40,7 @@
                      {
                          "name":  "verify.zip",
                          "size":  158574,
-                         "sha256":  "EE79F0AA503792A727EDC1F9679707E376232A5138F02A00A8494706EA14871D",
+                         "sha256":  "663BBF877F52D96D1F9607330068193545FBB9DC9812C71290D5CC93F3C798A2",
                          "url":  "https://updates.smartpt.co.il/packages/verify.zip"
                      }
                  ],
